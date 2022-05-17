@@ -1,0 +1,32 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+html {
+  font-size: 100%;
+}
+.card-header {
+  font-size: 2rem;
+  font-weight: 700;
+  background-color: #a2ceeb;
+}
+button {
+  background-color: rgb(255, 140, 102);
+  color: whitesmoke;
+
+  border-radius: 2rem;
+  border: 0.1rem grey;
+}
+span {
+  color: rgb(255, 102, 140);
+}
+.card {
+  box-shadow: -1px -1px 3px black;
+  box-shadow: 1px 1px 3px black;
+}
+input {
+  border-radius: 1rem;
+}
+input::placeholder {
+  padding-left: 1rem;
+}
